@@ -22,4 +22,4 @@ To run the example project:
 
 1. Edit the `sketchy.env.example` file to include all of your required environment variables.
 2. Run `source sketch.env.example`.
-3. Run the startup script `example/bin/worker` as follows: `$ ./example/bin/worker sketchy.example`
+3. Run the startup script `example/bin/worker` as follows: `$ ./example/bin/worker example`
